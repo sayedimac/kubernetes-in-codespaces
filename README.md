@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://sayedimac-scaling-meme-6v5969rwpx7cxx5g.github.dev)
 # Kubernetes in Codespaces
 
 > Setup a Kubernetes cluster using `k3d` running in [GitHub Codespaces](https://github.com/features/codespaces)
